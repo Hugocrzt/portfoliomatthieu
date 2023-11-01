@@ -459,6 +459,13 @@ if (process.client) {
                 lien: 'https://www.instagram.com/p/CKMS4hlhGF9/?igshid=he5wir7b79w4'
             },
             {
+                number: 'IE00033',
+                title: 'Catalogue IKEA',
+                category: 'All Design',
+                categoryvisible: 'Design',
+                lien: 'https://www.instagram.com/p/CKRkHe-BPME/?igshid=reqb138wd3w6'
+            },
+            {
                 number: 'IE00034',
                 title: 'Conservatoire de Montreuil',
                 category: 'All Architecture',
