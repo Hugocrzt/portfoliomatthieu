@@ -463,6 +463,11 @@ if (process.client) {
                 title: 'Catalogue IKEA',
                 category: 'All Design',
                 categoryvisible: 'Design',
+                image: {
+                    srcwebp: require ('~/assets/img/IE00033.webp'),
+                    srcjpg: require ('~/assets/img/IE00033.jpg'),
+                    alt: "IE00033",               
+                },
                 lien: 'https://www.instagram.com/p/CKRkHe-BPME/?igshid=reqb138wd3w6'
             },
             {
