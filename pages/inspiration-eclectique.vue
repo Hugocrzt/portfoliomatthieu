@@ -464,8 +464,8 @@ if (process.client) {
                 category: 'All Design',
                 categoryvisible: 'Design',
                 image: {
-                    srcwebp: require ('~/assets/img/IE00033.webp'),
-                    srcjpg: require ('~/assets/img/IE00033.jpg'),
+                    srcwebp: require ('~/assets/img/IE00033_bis.webp'),
+                    srcjpg: require ('~/assets/img/IE00033_bis.jpg'),
                     alt: "IE00033",               
                 },
                 lien: 'https://www.instagram.com/p/CKRkHe-BPME/?igshid=reqb138wd3w6'
