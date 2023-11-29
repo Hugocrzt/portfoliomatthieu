@@ -477,7 +477,7 @@ if (process.client) {
                 categoryvisible: 'Architecture',
                 image: {
                     srcwebp: require ('~/assets/img/IE00033_bis.webp'),
-                    srcjpg: require ('~/assets/img/IE00033_bis.jpg'),f
+                    srcjpg: require ('~/assets/img/IE00033_bis.jpg'),
                     alt: "IE00034",               
                 },
                 lien: 'https://www.instagram.com/p/CKcG748hOaJ/?igshid=13qna3in0db0s'
